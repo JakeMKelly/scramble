@@ -8,6 +8,10 @@
 ##What is it?
 * Scramble is a mapping tool to help coordinate and plan off-trail hiking, backpacking, and moutaineering trips. Inspired by our love for outdoor culture, Scramble allows users to efficiently create and save backcountry routes that easily visualize coordinates, distance and elevation changes on a topographic map. Scramble was completed for our final project upon completion of DevBootcamp's web development program and it continues to be an ongoing collaboration with our team.
 
+##View, save and rate user-generated trips
+
+![Save Photos](https://cloud.githubusercontent.com/assets/20080850/23082060/88ebaefc-f50c-11e6-8e4b-724ec6a4b013.png)
+
 ##Plot out your next trip:
 
 ![Create New Trip](https://cloud.githubusercontent.com/assets/20080850/23085625/8d30e336-f51d-11e6-9e67-d3c1b57e6554.png)
@@ -21,7 +25,7 @@
 
 ![Login](https://cloud.githubusercontent.com/assets/20080850/23085735/20df0608-f51e-11e6-83e0-64d79f87fa02.png)
 
-##Browse, rate, and save trips that other users have plotted:
+##Browse trips that other users have created, or review/revise your own:
 
 ![Trips Index](https://cloud.githubusercontent.com/assets/20080850/23085667/c41d754e-f51d-11e6-989e-53619aea4c5a.png)
 
@@ -30,10 +34,6 @@
 ##Earn Badges by creating trips:
 
 ![User Profile](https://cloud.githubusercontent.com/assets/20080850/23086488/00ea0ac4-f522-11e6-87e1-9b5c9310cb7d.png)
-
-##Save photos to specific markers on your own trip
-
-![Save Photos](https://cloud.githubusercontent.com/assets/20080850/23082060/88ebaefc-f50c-11e6-8e4b-724ec6a4b013.png)
 
 ##What did we use to code it?
 * Ruby version 2.3.1
