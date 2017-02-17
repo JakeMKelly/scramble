@@ -10,7 +10,6 @@
 
 ##Save photos to your map
 ![Save Photos](https://cloud.githubusercontent.com/assets/20080850/23082060/88ebaefc-f50c-11e6-8e4b-724ec6a4b013.png)
-Format: ![Alt Text](url)
 
 ##What did we use to code it?
 * Ruby version 2.3.1
