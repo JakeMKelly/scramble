@@ -5,8 +5,8 @@ RSpec.describe Marker, type: :model do
     it { is_expected.to validate_presence_of :lat }
     it { is_expected.to validate_presence_of :lng }
     it { is_expected.to validate_presence_of :trip_id }
-    # Commenting out numericality tests due to issue with Ruby 2.4
-    
+    # Commenting out numericality tests due to issue with Ruby 2.4 to fix later
+
     # it { is_expected.to validate_numericality_of :lat }
     # it { is_expected.to validate_numericality_of :lng }
     it { is_expected.to allow_value(-1).for :lat }
